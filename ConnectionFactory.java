@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConnectionFactory {
 
     private String usuario = "root";
-    private String senha = "Belchior*14142418";
+    private String senha = "";
     private String host = "localhost";
     private String porta = "3306";
     private String bd = "psc_bua";
